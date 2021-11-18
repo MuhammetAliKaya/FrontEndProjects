@@ -1,0 +1,23 @@
+.li{
+    background-color: aqua;
+     display: inline;
+    margin: 4.5%;  
+    border-radius: 15px;
+    padding: 5px;
+}
+nav{
+
+margin: auto;
+padding-top: 12px;
+padding-left: 20px ; 
+width: 500px;
+height: 30px;
+border-radius: 15px;
+background-color: black;
+
+
+    
+
+
+}
+
