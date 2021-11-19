@@ -1,5 +1,5 @@
 .li{
-    background-color: aqua;
+    background-color: rgb(4, 177, 251);
      display: inline;
     margin: 4.5%;  
     border-radius: 15px;
@@ -14,10 +14,18 @@ width: 500px;
 height: 30px;
 border-radius: 15px;
 background-color: black;
+}
 
-
-    
-
+.art1{
+    margin:auto;
+    width: 500px;
+    background-color: rgb(4, 177, 251);
+    border-radius: 15px;
+    padding: 10px;
 
 }
 
+.img1{
+    padding-left: 10%;
+    padding-top: 2%;
+}
