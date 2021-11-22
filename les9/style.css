@@ -1,0 +1,73 @@
+.headerpic{
+    display: block;
+    margin:auto;
+
+
+}
+html {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+
+}
+
+.container{
+    
+    height: 100%;
+    margin-right: 10%;
+    margin-left: 10%; 
+    margin-top: 0%;
+    background-color: white;
+
+
+}
+.mainpage{
+    margin: 0 auto;
+    width:91%;
+    height: 10%;
+    background-color: gray;
+}
+.mainpage p{
+    margin: auto;
+    margin-left: 45%;
+
+}
+.inputs{
+    display: block;
+    width: 20%;
+    margin-left: 40%;
+}
+.inputa{
+    display: inline-block;
+    margin-left: 30%;
+
+    width: 20%;
+
+}
+.inputb{
+    display: inline-block;
+
+    width: 20%;
+
+}
+.bottom {
+padding-left: 4%;
+margin: 0 auto;
+width: 96%;
+height: 25%;
+
+}
+.card{
+float: left;
+width: 26%;
+height: 80%;
+margin: 5px 5px;
+
+padding-left:5% ;
+background-color: turquoise ;
+}
