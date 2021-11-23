@@ -1,0 +1,136 @@
+
+.imgg{
+    display: block;
+margin: 100px auto    ;
+}
+#searchbar{
+    position: absolute;
+    border-radius: 15px;
+    display: block;
+    width: 500px;
+    height: 25px;
+    top: 300px;
+    left: 520px;
+}
+.btnsearch1{
+position: absolute;
+width:150px;
+    top: 350px;
+    left: 620px;
+
+}
+.btnsearch2{
+    position: absolute;
+    width:150px;
+        top: 350px;
+        left: 780px;
+
+
+}
+.left1{
+    border: rgb(196, 187, 187);
+    background-color: white;
+    position:relative;
+    margin-left: 0px;
+    top: 10px;
+}
+.left2{
+    border: rgb(196, 187, 187);
+    background-color: white;
+    position:relative;
+    margin-left: 0px;
+    top: 10px;
+}
+
+.right1{
+    border: rgb(196, 187, 187);
+    background-color: white;
+    position:absolute;
+    top: 10px;
+    left: 1400px;
+}
+.right2{
+    border: rgb(196, 187, 187);
+    background-color: white;
+    position:absolute;
+    left: 1320px;
+    top: 10px;
+}
+.right3{
+    border: rgb(196, 187, 187);
+    top: 10px;
+    background-color: white;
+    position:absolute;
+  left: 1240px;
+}
+.right4{
+    border: rgb(96, 92, 92);
+    background-color: rgb(255, 255, 255);
+    top: 10px;
+    position:absolute;
+left: 1160px;
+
+}
+
+.grayline{
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    background-color: gray;
+    left:0px;
+    z-index: 0;
+}
+.bottomleft1{
+
+    border: rgb(196, 187, 187);
+    background-color: gray;
+    position:relative;
+    margin-left: 0px;
+    top: 325px;
+}
+.bottomleft2{
+
+    border: rgb(196, 187, 187);
+    background-color: gray;
+    position:relative;
+    margin-left: 0px;
+    top: 325px;
+}
+.bottomleft3{
+
+    border: rgb(196, 187, 187);
+    background-color: gray;
+    position:relative;
+    margin-left: 0px;
+    top: 325px;
+}
+.bottomright1{
+
+    border: rgb(196, 187, 187);
+    background-color: gray;
+    top: 10px;
+    position:absolute;
+    left: 1440px;
+    top: 725px;
+}
+.bottomright2{
+
+    border: rgb(196, 187, 187);
+    background-color: gray;
+    top: 10px;
+    position:absolute;
+    left: 1340px;
+    top: 725px;
+}
+.bottomright3{
+
+    border: rgb(196, 187, 187);
+    background-color: gray;
+    top: 10px;
+    position:absolute;
+    left: 1240px;
+    top: 725px;
+}
