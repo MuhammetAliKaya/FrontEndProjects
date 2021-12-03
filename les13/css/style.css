@@ -4,6 +4,7 @@
   color: gray;
   background-position: 40%;
   background-size: 6%;
+  background-image:url(../assets/search-solid.svg);
 }
 
 input.empty {
